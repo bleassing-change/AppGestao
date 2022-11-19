@@ -1,7 +1,7 @@
 # AppGestao
 Aplicativo de agendamento de tarefas
 
-#linguagens usadas
+# linguagens usadas
 
 ## dart e php
 
